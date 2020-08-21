@@ -29,7 +29,7 @@ ping -c 1 136.161.101.53
 cat /var/log/nidds/$(date +"%Y-%m-%d").log
 ```
 
-![Test](https://i.imgur.com/NYJg6Kl.png)
+![Test](https://#.png)
 
 Also, to test the capturing of DNS traffic you can try the following:
 
@@ -38,7 +38,7 @@ nslookup morphed.ru
 cat /var/log/nidds/$(date +"%Y-%m-%d").log
 ```
 
-![Test2](https://i.imgur.com/62oafEe.png)
+![Test2](https://#.png)
 
 To stop **Sensor** and **Server** instances (if running in background) execute the following:
 
