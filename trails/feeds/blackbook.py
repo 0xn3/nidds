@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 
 """
-Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 See the file 'LICENSE' for copying permission
 """
 
 from core.common import retrieve_content
 
-__url__ = "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.csv"
+__url__ = "https://raw.githubusercontent.com/prasanthc41m/blackbook/master/blackbook.csv"
 __check__ = "Malware"
-__reference__ = "github.com/stamparm/blackbook"
+__reference__ = "github.com/prasanthc41m/blackbook"
 
 def fetch():
     retval = {}
