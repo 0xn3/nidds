@@ -1,4 +1,4 @@
-![NIDDS](https://ehackify.com/images/ehack.png)
+![NIDDS]()
 
 
 ## Quick start
