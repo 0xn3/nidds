@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://twitter.com/benkow_/status/1225786810330222594
@@ -6,7 +6,7 @@
 
 54.88.21.193
 
-Reference: https://www.virustotal.com/gui/file/19d3cadb835835103828d59347b41f192523fa0720a493ea23ca3f8544195e06/detection
+Reference: https://www.virustotal.com/gui/file/19d3cadb835835103828d59347b41f192523fa0720a493ea23ca3f8544195e06/trails
 
 34.225.153.59:10000
 

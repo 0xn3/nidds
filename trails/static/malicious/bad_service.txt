@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://twitter.com/PhysicalDrive0/status/1109871662890127360
@@ -222,7 +222,7 @@ darknet7rl4epe24.onion
 
 darknetleaks.ru
 
-# Reference: https://www.virustotal.com/gui/file/5bb883d81954d10446a71fc8965f399c731bfccdfccdad738c12f1025b7b2a96/detection
+# Reference: https://www.virustotal.com/gui/file/5bb883d81954d10446a71fc8965f399c731bfccdfccdad738c12f1025b7b2a96/trails
 
 officeapplications.net
 

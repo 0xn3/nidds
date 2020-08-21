@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://viriback.com/30-days-later-97-panels/
@@ -135,7 +135,7 @@
 /newsite/panelnew/
 
 # Reference: https://twitter.com/darienhuss/status/1192736459167588353 (# Cyber Agent)
-# Reference: https://www.virustotal.com/gui/file/04d70bb249206a006f83db39bbe49ff6e520ea329e5fbb9c758d426b1c8dec30/detection
+# Reference: https://www.virustotal.com/gui/file/04d70bb249206a006f83db39bbe49ff6e520ea329e5fbb9c758d426b1c8dec30/trails
 # Reference: http://benkow.cc/wp_prezo.pdf
 
 /android_panel/
@@ -152,7 +152,7 @@
 
 /webpanel1/
 
-# Reference: https://www.virustotal.com/gui/file/e394e53e53cd9047d6cff184ac333ef7698a34b777ae3aac82c2c669ef661dfe/detection
+# Reference: https://www.virustotal.com/gui/file/e394e53e53cd9047d6cff184ac333ef7698a34b777ae3aac82c2c669ef661dfe/trails
 
 /webpanel/getcommands.php
 /webpanel/getsettings.php

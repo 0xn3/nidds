@@ -1,7 +1,7 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
-# Generic detection for compromised 1C Bitrix CMS
+# Generic trails for compromised 1C Bitrix CMS
 
 # Reference: http://marketplace.1c-bitrix.ru/blog/remove-virus-miner-from-the-site-to-1cbitrix/ (RU-lang)
 

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: magecart
@@ -1543,7 +1543,7 @@ zs.mk
 ns-scripts.com
 
 # Reference: https://twitter.com/gwillem/status/1232246887367028737
-# Reference: https://www.virustotal.com/gui/domain/cloudmgrtracker.com/detection
+# Reference: https://www.virustotal.com/gui/domain/cloudmgrtracker.com/trails
 
 cloudmgrtracker.com
 
@@ -1612,7 +1612,7 @@ sucuritester.com
 wp-includ.com
 
 # Reference: https://web.misker.me/blog/malware/2020/03/04/Raindrop-PoppedShop.html
-# Reference: https://www.virustotal.com/gui/domain/googletagmanagrapis.com/detection
+# Reference: https://www.virustotal.com/gui/domain/googletagmanagrapis.com/trails
 
 googletagmanagrapis.com
 
@@ -2048,7 +2048,7 @@ priangan.com/wp-content/languages/blogid/
 
 # Reference: https://twitter.com/tosscoinwitcher/status/1261353530465456128
 # Reference: https://twitter.com/500mk500/status/1261361366339903488
-# Reference: https://www.virustotal.com/gui/domain/googletagmanagr.com/detection
+# Reference: https://www.virustotal.com/gui/domain/googletagmanagr.com/trails
 
 googletagmanagr.com
 
@@ -2450,7 +2450,7 @@ cloud-sources.com
 
 # Reference: https://twitter.com/500mk500/status/1288482532774891521
 # Reference: https://www.virustotal.com/gui/ip-address/8.211.36.239/relations
-# Reference: https://www.virustotal.com/gui/domain/rooplancdn.com/detection
+# Reference: https://www.virustotal.com/gui/domain/rooplancdn.com/trails
 
 rooplancdn.com
 
@@ -2513,7 +2513,7 @@ zoplm.com
 cdncom.site
 
 # Reference: https://twitter.com/AffableKraut/status/1293104085835689984
-# Reference: https://www.virustotal.com/gui/domain/googapi.com/detection
+# Reference: https://www.virustotal.com/gui/domain/googapi.com/trails
 
 googapi.com
 

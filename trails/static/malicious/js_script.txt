@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://blog.malwarebytes.com/threat-analysis/2018/09/mass-wordpress-compromises-tech-support-scams/
@@ -44,7 +44,7 @@ play.soodatmish.com/app.js
 /lib/miner.min.js
 /lib/worker-asmjs.min.js
 
-# Reference: https://www.virustotal.com/#/url/e2887029795c19d1b0d7e97bcd6b29fd25988ea27e8f958ef9af6f9520f97b45/detection
+# Reference: https://www.virustotal.com/#/url/e2887029795c19d1b0d7e97bcd6b29fd25988ea27e8f958ef9af6f9520f97b45/trails
 
 coinimp.com/scripts/min.js
 
@@ -241,7 +241,7 @@ zenartfree.com/.advicedetails/1Z2-510491-details
 # Reference: https://www.symantec.com/security-center/writeup/2018-092007-1208-99
 # Reference: https://www.virustotal.com/#/ip-address/212.109.222.157
 
-# Generic callback detection
+# Generic callback trails
 
 /js/altmanluggage.js
 /js/aureliaskincare.js
@@ -1003,7 +1003,7 @@ stat.trackstatisticsss.com
 
 crisgrey.com
 
-# Reference: https://www.virustotal.com/gui/domain/cdn-js.net/detection
+# Reference: https://www.virustotal.com/gui/domain/cdn-js.net/trails
 
 cdn-js.net
 

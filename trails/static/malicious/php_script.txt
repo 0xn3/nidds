@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://www.virustotal.com/#/ip-address/85.17.26.65 (#URL section)
@@ -349,7 +349,7 @@ westflies.com/api/api.php
 
 /ubwa0opty4jnoerxyj8dtjra.php
 
-# Reference: https://twitter.com/ps66uk/status/1148183374818873344
+# Reference: https://twitter.com/ps66uk/status/1148110194818873344
 
 /publickprivate.php
 /74_8_839.php
@@ -803,11 +803,11 @@ safesurfing.me
 
 /EasyWeb%20Login1.php
 
-# Reference: https://www.virustotal.com/gui/file/8890413aaf104d61f7736558350252d63e55e370449ebcec8812f5a1637ed12e/detection
+# Reference: https://www.virustotal.com/gui/file/8890413aaf104d61f7736558350252d63e55e370449ebcec8812f5a1637ed12e/trails
 
 /nsy6z9ybvhrts5nm6inzf2ld.php
 
-# Reference: https://www.virustotal.com/gui/file/d10c51034be9e3e5338e378900ca5eabff72eb3b02ef34a3e37146a656b62821/detection
+# Reference: https://www.virustotal.com/gui/file/d10c51034be9e3e5338e378900ca5eabff72eb3b02ef34a3e37146a656b62821/trails
 
 /box3Drenewal.php
 
@@ -1124,7 +1124,7 @@ zctrack.com
 
 /captura01Controller.php
 
-# Reference: https://www.virustotal.com/gui/file/f92ffc14ebc9ea2be74f7a6f73fa2055e345a42428171cee6491e6903816dce3/detection
+# Reference: https://www.virustotal.com/gui/file/f92ffc14ebc9ea2be74f7a6f73fa2055e345a42428171cee6491e6903816dce3/trails
 
 /0ec71210595a57.php
 /5d54ff24322827.php
@@ -1379,7 +1379,7 @@ tunacan-812.tk
 
 /eweerew.php
 
-# Reference: https://www.virustotal.com/gui/file/d920f89a4d8ae2f2cc597779c57e515c0f9451a66ecdaeef35169f6d0a43a35d/detection
+# Reference: https://www.virustotal.com/gui/file/d920f89a4d8ae2f2cc597779c57e515c0f9451a66ecdaeef35169f6d0a43a35d/trails
 
 /us1jdskjdshfkjehr.php
 
@@ -1418,7 +1418,7 @@ tunacan-812.tk
 /g0t6q3hsierdb43h9rp0gpcf.php
 /jog06tlwitnzupwsz7m429hdb8fefdb9c8e9aba0f526dc8176725f94.php
 
-# Reference: https://www.virustotal.com/gui/url/d7a8b43a2ef3439fa640b10dce6da642996535efe01d2c71321748fd803e6e46/detection
+# Reference: https://www.virustotal.com/gui/url/d7a8b43a2ef3439fa640b10dce6da642996535efe01d2c71321748fd803e6e46/trails
 
 /l91opka52wljumjc5spkbhnc.php
 
@@ -1447,7 +1447,7 @@ tunacan-812.tk
 
 /11644210b.php
 
-# Reference: https://www.virustotal.com/gui/file/17425e66428e284c2da73f3a7173e4291fb0b2bc76fd6d618921a9f0eb543340/detection
+# Reference: https://www.virustotal.com/gui/file/17425e66428e284c2da73f3a7173e4291fb0b2bc76fd6d618921a9f0eb543340/trails
 
 /upload/get.php?UID=
 /upload/get-functions.php?UID=
@@ -1466,7 +1466,7 @@ tunacan-812.tk
 /c9t4x6ypwut14ouvps6kszaf.php
 
 # Reference: https://twitter.com/dewan202/status/1255582744110862345
-# Reference: https://www.virustotal.com/gui/file/7edacdf35900e722b798dbc891159cf1ede9f6d671a86b0f01f9ef802202aa73/detection
+# Reference: https://www.virustotal.com/gui/file/7edacdf35900e722b798dbc891159cf1ede9f6d671a86b0f01f9ef802202aa73/trails
 # Reference: https://www.virustotal.com/gui/ip-address/185.77.129.152/relations
 # Reference: https://www.virustotal.com/gui/ip-address/93.115.38.132/relations
 
@@ -1579,7 +1579,7 @@ tunacan-812.tk
 
 /2a79hohpsm1vxuo1d0xuqoer.php
 
-# Reference: https://www.virustotal.com/gui/file/3d3351726f3b5cd848ad58cabcc33c9dcd1c601cc1664f197f10b8b1adf7038b/detection
+# Reference: https://www.virustotal.com/gui/file/3d3351726f3b5cd848ad58cabcc33c9dcd1c601cc1664f197f10b8b1adf7038b/trails
 
 /qwegweherjhntrj.php
 
@@ -1672,7 +1672,7 @@ tunacan-812.tk
 /ecnxg8w7d5suuciz4w1jv057.php
 
 # Reference: https://www.virusradar.com/en/Win32_TrojanClicker.Clidak.A/description
-# Reference: https://www.virustotal.com/gui/file/980ef75a800eba45c7cb64b4c1bcc61a3b0cdf92854c24dbf1ea0f3fe4cad944/detection
+# Reference: https://www.virustotal.com/gui/file/980ef75a800eba45c7cb64b4c1bcc61a3b0cdf92854c24dbf1ea0f3fe4cad944/trails
 # Reference: https://www.virustotal.com/gui/ip-address/65.254.51.42/relations
 
 /~pete19c/r.php
@@ -1685,35 +1685,35 @@ tunacan-812.tk
 
 /KFm63QEU7ArF.php
 
-# Reference: https://www.virustotal.com/gui/file/d72133df3fee1d91fcab0adb532459b6c0044e7f8b4ca542fa3f6ae470b42be1/detection
+# Reference: https://www.virustotal.com/gui/file/d72133df3fee1d91fcab0adb532459b6c0044e7f8b4ca542fa3f6ae470b42be1/trails
 
 /5c2eab368ebd00202fc7b56bb4a46f1ee67acd8e.php
 
-# Reference: https://www.virustotal.com/gui/file/dacce09fd5829213606cef3f45d5bc43d4522183e54422eb4a5c7a404c69a6c2/detection
+# Reference: https://www.virustotal.com/gui/file/dacce09fd5829213606cef3f45d5bc43d4522183e54422eb4a5c7a404c69a6c2/trails
 
 /bdeefbc5c36a0b584fa7c5330e493a7d22b741af.php
 
-# Reference: https://www.virustotal.com/gui/file/44f3eb01406921d5605933abce49e5fe04cfe6a73f3fcb7380dc99765043ea2a/detection
+# Reference: https://www.virustotal.com/gui/file/44f3eb01406921d5605933abce49e5fe04cfe6a73f3fcb7380dc99765043ea2a/trails
 
 /1dc5e926948fd82a85e7c085e0bf0c6db31969f3.php
 
-# Reference: https://www.virustotal.com/gui/file/4bf6ec0d9ab95d7d7d4e1e7453a83ed731c9188fbe6d007834025f00791cdcb9/detection
+# Reference: https://www.virustotal.com/gui/file/4bf6ec0d9ab95d7d7d4e1e7453a83ed731c9188fbe6d007834025f00791cdcb9/trails
 
 /64d631e36c839e2964fcdc671f84e96bc9dcd7ca.php
 
-# Reference: https://www.virustotal.com/gui/file/9fabd7b98f8972850549231d2ac2762ec1cad3ef8fdf3cb994d14c9c3ad17ba5/detection
+# Reference: https://www.virustotal.com/gui/file/9fabd7b98f8972850549231d2ac2762ec1cad3ef8fdf3cb994d14c9c3ad17ba5/trails
 
 /156b2b990971b28b12393cd82884a7d3.php
 
-# Reference: https://www.virustotal.com/gui/file/0130797c1baa9ac6709693d7e357cd37cf4bfb48fe9bfaede723674bec4cde85/detection
+# Reference: https://www.virustotal.com/gui/file/0130797c1baa9ac6709693d7e357cd37cf4bfb48fe9bfaede723674bec4cde85/trails
 
 /84a7d5fcbbe9a0cdcf1357c70cf326bed852c7ee.php
 
-# Reference: https://www.virustotal.com/gui/file/41dcb2cb400c656826db00e368c5ddc4d254d69d5d9ab0cd6a63fd68bba2fb5f/detection
+# Reference: https://www.virustotal.com/gui/file/41dcb2cb400c656826db00e368c5ddc4d254d69d5d9ab0cd6a63fd68bba2fb5f/trails
 
 /901212b6cc3a718fd6012ed1ff31c04663ffeb8b.php
 
-# Reference: https://www.virustotal.com/gui/file/b9024622a0e5c982db8b533e6c3a736d65d5c02bf01b4ff15d3fd770f4632443/detection
+# Reference: https://www.virustotal.com/gui/file/b9024622a0e5c982db8b533e6c3a736d65d5c02bf01b4ff15d3fd770f4632443/trails
 
 /86872acabed89173a9b729bb81eca3ab802559ca.php
 
