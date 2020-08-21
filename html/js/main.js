@@ -1,5 +1,5 @@
 /*
-* Copyright (c) 2014-2020 Maltrail developers (https://github.com/prasanthc41m/nidds/)
+* Copyright (c) 2014-2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 * See the file 'LICENSE' for copying permission
 */
 
@@ -214,9 +214,9 @@ function checkAuthentication() {
         cache: false,
         complete: function(response) {
             if(response.status === 404) {
-                document.title = "Maltrail";
+                document.title = "NIDDS";
                 document.body.hidden = true;
-                throw new Error("Maltrail should be accessed ONLY at its server instance's address (e.g. http://127.0.0.1:1020)");
+                throw new Error("NIDDS should be accessed ONLY at its server instance's address (e.g. http://127.0.0.1:1020)");
             }
             else if ((response.status === 200) && (typeof response.responseText !== "undefined") && (response.responseText.length > 0)) {
                 _USER = response.responseText;
@@ -233,7 +233,7 @@ function checkAuthentication() {
             }
             else if (window.location.origin.startsWith('http')) {
                 _USER = "";
-                document.title = "Maltrail (unauthorized)";
+                document.title = "NIDDS (unauthorized)";
                 setTimeout(function() {
                     $("#login_link").click();
                 }, 1000);
@@ -456,7 +456,7 @@ function init(url, from, to) {
     var csv = "";
     var demo = false;
 
-    document.title = "Maltrail (loading...)";
+    document.title = "NIDDS (loading...)";
     $("body").loader("show");
     $("#main_container").toggleClass("hidden", true);
     $("#heatmap_container").hide();
@@ -844,7 +844,7 @@ function init(url, from, to) {
                 if (demo) {
                     alertify.log("Showing demo data");
 
-                    document.title = "Maltrail (demo)";
+                    document.title = "NIDDS (demo)";
                     $("#period_label").html("demo");
                 }
                 else {
@@ -862,7 +862,7 @@ function init(url, from, to) {
                     }
 
                     if (document.title.indexOf("unauthorized") === -1)
-                        document.title = "Maltrail (" + period + ")";
+                        document.title = "NIDDS (" + period + ")";
 
                     scrollTo("#main_container");
 

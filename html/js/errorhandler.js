@@ -14,7 +14,7 @@ window.onerror = function(errorMsg, url, lineNumber) {
 
     try {
         $("body").loader("hide");
-        document.title = "Maltrail";
+        document.title = "NIDDS";
     }
     catch(err) {
     }
