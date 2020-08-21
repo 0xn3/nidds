@@ -20,13 +20,13 @@ then
     exit 1;
 fi
 
-if find . -type f -iname "maltrail.conf" | xargs grep "SHOW_DEBUG true";
+if find . -type f -iname "nidds.conf" | xargs grep "SHOW_DEBUG true";
 then
     echo "SHOW_DEBUG true detected"
     exit 1;
 fi
 
-if find . -type f -iname "maltrail.conf" | xargs grep "USE_FEED_UPDATES false";
+if find . -type f -iname "nidds.conf" | xargs grep "USE_FEED_UPDATES false";
 then
     echo "USE_FEED_UPDATES false detected"
     exit 1;

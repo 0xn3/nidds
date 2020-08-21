@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+Copyright (c) 2014-2020 Maltrail developers (https://github.com/prasanthc41m/nidds/)
 See the file 'LICENSE' for copying permission
 """
 
@@ -1224,7 +1224,7 @@ if __name__ == "__main__":
         log_error("\n\n[!] session abruptly terminated\n[?] (hint: \"https://stackoverflow.com/a/20997655\")")
     except Exception:
         msg = "\r[!] unhandled exception occurred ('%s')" % sys.exc_info()[1]
-        msg += "\n[x] please report the following details at 'https://github.com/stamparm/maltrail/issues':\n---\n'%s'\n---" % traceback.format_exc()
+        msg += "\n[x] please report the following details at 'https://github.com/prasanthc41m/nidds/issues':\n---\n'%s'\n---" % traceback.format_exc()
         log_error("\n\n%s" % msg.replace("\r", ""))
 
         print(msg)

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+Copyright (c) 2014-2020 Maltrail developers (https://github.com/prasanthc41m/nidds/)
 See the file 'LICENSE' for copying permission
 """
 from __future__ import print_function
@@ -20,7 +20,7 @@ from core.attribdict import AttribDict
 from core.trailsdict import TrailsDict
 from thirdparty.six.moves import urllib as _urllib
 
-NAME = "Maltrail"
+NAME = "NIDDS"
 VERSION = "0.23.8"
 PLATFORM = os.name
 IS_WIN = PLATFORM == "nt"
@@ -38,7 +38,7 @@ IPCAT_URL = "https://raw.githubusercontent.com/client9/ipcat/master/datacenters.
 CHECK_CONNECTION_URL = "https://www.github.com"
 CHECK_CONNECTION_MAX_RETRIES = 3
 TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
-HTTP_DEFAULT_PORT = 8338
+HTTP_DEFAULT_PORT = 1020
 HTTP_TIME_FORMAT = "%a, %d %b %Y %H:%M:%S GMT"  # Reference: http://stackoverflow.com/a/225106
 CEF_FORMAT = "{syslog_time} {host} CEF:0|{device_vendor}|{device_product}|{device_version}|{signature_id}|{name}|{severity}|{extension}"
 SESSION_COOKIE_NAME = "%s_sessid" % NAME.lower()
@@ -59,7 +59,7 @@ DISPOSED_NONCES = set()
 PING_RESPONSE = "pong"
 MAX_NOFILE = 65000
 CAPTURE_TIMEOUT = 100  # ms
-CONFIG_FILE = os.path.join(ROOT_DIR, "maltrail.conf")
+CONFIG_FILE = os.path.join(ROOT_DIR, "nidds.conf")
 SYSTEM_LOG_DIR = "/var/log" if not IS_WIN else "C:\\Windows\\Logs"
 DEFAULT_EVENT_LOG_PERMISSIONS = stat.S_IREAD | stat.S_IWRITE | stat.S_IRGRP | stat.S_IROTH
 DEFAULT_ERROR_LOG_PERMISSIONS = stat.S_IREAD | stat.S_IWRITE | stat.S_IRGRP | stat.S_IWGRP | stat.S_IROTH | stat.S_IWOTH
@@ -71,7 +71,7 @@ CONDENSE_ON_INFO_KEYWORDS = ("attacker", "reputation", "scanner", "user agent", 
 CONDENSED_EVENTS_FLUSH_PERIOD = 10
 LOW_PRIORITY_INFO_KEYWORDS = ("reputation", "attacker", "spammer", "abuser", "malicious", "dnspod", "nicru", "crawler", "compromised", "bad history")
 HIGH_PRIORITY_INFO_KEYWORDS = ("mass scanner", "ipinfo")
-HIGH_PRIORITY_REFERENCES = ("bambenekconsulting.com", "github.com/stamparm/blackbook", "(static)", "(custom)")
+HIGH_PRIORITY_REFERENCES = ("bambenekconsulting.com", "github.com/prasanthc41m/blackbook", "(static)", "(custom)")
 CONSONANTS = "bcdfghjklmnpqrstvwxyz"
 BAD_TRAIL_PREFIXES = ("127.", "192.168.", "localhost")
 LOCALHOST_IP = { 4: "127.0.0.1", 6: "::1" }
@@ -374,7 +374,7 @@ def read_config(config_file):
     else:
         config.TRAILS_FILE = os.path.abspath(os.path.expanduser(config.TRAILS_FILE))
 
-    if int(os.environ.get("MALTRAIL_DREI", 0)) > 0:
+    if int(os.environ.get("NIDDS_DREI", 0)) > 0:
         config.SHOW_DEBUG = True
 
 def read_whitelist():

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 localhost
@@ -1388,7 +1388,7 @@ ucsuri.tcs
 forum-u-232.servebeer.com
 
 # Reference: https://apkscan.nviso.be/report/show/e2646fe8fd76bf2c2d413b056b76f7d9
-# Reference: https://www.virustotal.com/#/file/71487fc3f0b75d5e75bf9ae849ee5cd80f0688428fd06103becb80432036a16e/detection
+# Reference: https://www.virustotal.com/#/file/71487fc3f0b75d5e75bf9ae849ee5cd80f0688428fd06103becb80432036a16e/trails
 # Note: Android's Battery Doctor (FP on abuse.ch)
 
 cfg.cml.ksmobile.com
@@ -1401,7 +1401,7 @@ cfg.cml.ksmobile.com
 
 appleid.apple.com
 
-# Reference: https://github.com/stamparm/maltrail/commit/37f7a4be0da57a5639549388db567948cd7cbba4
+# Reference: https://github.com/prasanthc41m/nidds/commit/37f7a4be0da57a5639549388db567948cd7cbba4
 # Reference: https://twitter.com/ItsReallyNick/status/928155800123658241
 
 fbsbx.com
@@ -2868,7 +2868,7 @@ wsw6tua3xl24gsmi264zaep6seppjyrkyucpsmuxnjzyt3f3j6swshad.onion
 xray587.startdedicated.de
 yuio.top
 
-# Exceptions for android_roamingmantis detection regex
+# Exceptions for android_roamingmantis trails regex
 
 hf-hd.top
 nn-mod.top
@@ -2907,7 +2907,7 @@ dns4.easydns.info
 
 gen.xyz
 
-# Reference: https://github.com/stamparm/maltrail/pull/7271#issuecomment-596401544
+# Reference: https://github.com/prasanthc41m/nidds/pull/7271#issuecomment-596401544
 
 namebright.com
 
@@ -2936,7 +2936,7 @@ pastecode.xyz
 ibmcloud.com
 exchange.xforce.ibmcloud.com
 
-# Reference: https://github.com/stamparm/maltrail/pull/8701/commits/9ecad095a48f774e32f4069113f195a7bf883662
+# Reference: https://github.com/prasanthc41m/nidds/pull/8701/commits/9ecad095a48f774e32f4069113f195a7bf883662
 # Reference: https://www.virustotal.com/gui/domain/nvpn.so/relations
 
 nvpn.so
@@ -2946,7 +2946,7 @@ nvpn.so
 
 rupor.info
 
-# Reference: https://www.virustotal.com/gui/domain/rusvesna.su/detection
+# Reference: https://www.virustotal.com/gui/domain/rusvesna.su/trails
 
 rusvesna.su
 
@@ -2959,7 +2959,7 @@ tilda.wc
 
 gogol-mogol.su
 
-# Reference: https://www.virustotal.com/gui/domain/lissyara.su/detection
+# Reference: https://www.virustotal.com/gui/domain/lissyara.su/trails
 
 lissyara.su
 
@@ -2967,10 +2967,10 @@ lissyara.su
 
 warhead.su
 
-# Reference: https://www.virustotal.com/gui/domain/routers.wtf/detection
+# Reference: https://www.virustotal.com/gui/domain/routers.wtf/trails
 
 routers.wtf
 
-# Reference: https://www.virustotal.com/gui/domain/teenslang.su/detection
+# Reference: https://www.virustotal.com/gui/domain/teenslang.su/trails
 
 teenslang.su

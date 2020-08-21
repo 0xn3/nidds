@@ -1,5 +1,5 @@
 /*
-* Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+* Copyright (c) 2014-2020 Maltrail developers (https://github.com/prasanthc41m/nidds/)
 * See the file 'LICENSE' for copying permission
 */
 
@@ -649,8 +649,8 @@ function getDemoCSV() {
     '"2015-03-10 07:27:10.807630" r2d2 68.12.104.178 51562 68.12.99.2 53 UDP DNS (srxfevhi).cc "domain (suspicious)" (static)\n' +
     '"2015-03-10 07:27:10.829308" r2d2 68.12.104.178 44150 38.102.150.29 53 UDP IP 38.102.150.29 "conficker (malware)" (static)\n' +
     '"2015-03-10 07:27:10.829294" r2d2 68.12.104.178 44150 38.102.150.29 53 UDP IP 38.102.150.29 "conficker (malware)" (static)\n' +
-    '"2015-03-10 07:27:10.833739" r2d2 68.12.104.178 53413 38.102.150.29 53 UDP IP 38.102.150.29 "conficker (malware)" (static)\n' +
-    '"2015-03-10 07:27:10.833737" r2d2 68.12.104.178 53413 38.102.150.29 53 UDP IP 38.102.150.29 "conficker (malware)" (static)\n' +
+    '"2015-03-10 07:27:10.101939" r2d2 68.12.104.178 53413 38.102.150.29 53 UDP IP 38.102.150.29 "conficker (malware)" (static)\n' +
+    '"2015-03-10 07:27:10.101937" r2d2 68.12.104.178 53413 38.102.150.29 53 UDP IP 38.102.150.29 "conficker (malware)" (static)\n' +
     '"2015-03-10 07:27:11.338458" r2d2 68.12.104.178 58399 68.12.99.2 53 UDP DNS (roays).cc "domain (suspicious)" (static)\n' +
     '"2015-03-10 07:27:11.338480" r2d2 68.12.104.178 58399 68.12.99.2 53 UDP DNS (roays).cc "domain (suspicious)" (static)\n' +
     '"2015-03-10 07:27:11.380360" r2d2 68.12.104.178 43066 136.161.101.53 53 UDP IP 136.161.101.53 "conficker (malware)" (static)\n' +
@@ -2166,8 +2166,8 @@ function getDemoCSV() {
     '"2015-03-10 08:15:03.465897" r2d2 68.12.104.178 52747 68.12.99.2 53 UDP DNS (wehuckdtdm).ga "domain (suspicious)" (static)\n' +
     '"2015-03-10 08:15:03.586857" r2d2 68.12.104.178 45127 68.12.99.2 53 UDP DNS l33t.brand-clothes.net "palevo (malware)" (static)\n' +
     '"2015-03-10 08:15:03.586852" r2d2 68.12.104.178 45127 68.12.99.2 53 UDP DNS l33t.brand-clothes.net "palevo (malware)" (static)\n' +
-    '"2015-03-10 08:15:03.712016" r2d2 68.12.104.178 40389 68.12.99.2 53 UDP DNS (hpvycxcfksyvwecnlfl).cc "domain (suspicious)" (static)\n' +
-    '"2015-03-10 08:15:03.712014" r2d2 68.12.104.178 40389 68.12.99.2 53 UDP DNS (hpvycxcfksyvwecnlfl).cc "domain (suspicious)" (static)\n' +
+    '"2015-03-10 08:15:03.712016" r2d2 68.12.104.178 40389 68.12.99.2 53 UDP DNS (hpvycpngksyvwecnlfl).cc "domain (suspicious)" (static)\n' +
+    '"2015-03-10 08:15:03.712014" r2d2 68.12.104.178 40389 68.12.99.2 53 UDP DNS (hpvycpngksyvwecnlfl).cc "domain (suspicious)" (static)\n' +
     '"2015-03-10 08:15:04.074309" r2d2 68.12.104.178 40837 68.12.99.2 53 UDP DNS (tburiinomv).ga "domain (suspicious)" (static)\n' +
     '"2015-03-10 08:15:04.074310" r2d2 68.12.104.178 40837 68.12.99.2 53 UDP DNS (tburiinomv).ga "domain (suspicious)" (static)\n' +
     '"2015-03-10 08:15:04.127765" r2d2 68.12.104.178 47180 68.12.99.2 53 UDP DNS (ckbxwirugwck).su "domain (suspicious)" (static)\n' +
@@ -3753,7 +3753,7 @@ function getDemoCSV() {
     '"2015-03-10 09:23:10.089939" r2d2 68.12.104.178 42158 68.12.99.2 53 UDP DNS (static1.k2s).cc "domain (suspicious)" (static)\n' +
     '"2015-03-10 09:23:19.524462" r2d2 68.12.104.178 58196 68.12.99.2 53 UDP DNS (api).browsestudio.com malware malwareurls.joxeankoret.com\n' +
     '"2015-03-10 09:23:19.524460" r2d2 68.12.104.178 58196 68.12.99.2 53 UDP DNS (api).browsestudio.com malware malwareurls.joxeankoret.com\n' +
-    '"2015-03-10 09:23:19.683376" r2d2 68.12.104.178 38902 68.12.99.2 53 UDP DNS browsestudio.com malware malwareurls.joxeankoret.com\n' +
+    '"2015-03-10 09:23:19.610196" r2d2 68.12.104.178 38902 68.12.99.2 53 UDP DNS browsestudio.com malware malwareurls.joxeankoret.com\n' +
     '"2015-03-10 09:23:19.683363" r2d2 68.12.104.178 38902 68.12.99.2 53 UDP DNS browsestudio.com malware malwareurls.joxeankoret.com\n' +
     '"2015-03-10 09:23:23.304823" r2d2 68.12.104.178 54820 68.12.99.2 53 UDP DNS juice.losmibracala.org "palevo (malware)" (static)\n' +
     '"2015-03-10 09:23:23.304826" r2d2 68.12.104.178 54820 68.12.99.2 53 UDP DNS juice.losmibracala.org "palevo (malware)" (static)\n' +
