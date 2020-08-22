@@ -13,7 +13,7 @@ mkdir -p /etc/nidds
 #Add Remote Server:port IP
 read -p 'IP: ' ip
 #echo "LOG_SERVER $ip:1019" >> /opt/nidds/nidds.conf
-sed -i "97i\ \ LOG_SERVER $ip:1019 /opt/nidds/nidds.conf
+sed -i "97i\ \ LOG_SERVER $ip:1019" /opt/nidds/nidds.conf
 cp /opt/nidds/nidds.conf /etc/nidds
 # Adding cron job
 echo -e "\e[93mUpdating cron job to autostart sensor & periodic restart \e[0m"
@@ -26,4 +26,4 @@ echo -e "\e[93mInstallation Finished \e[0m"
 echo -e "\e[93mTesting Sensor \e[0m"
 ping -c 1 136.161.101.53
 echo -e "\e[93m $(tail -n 2  /var/log/nidds/$(date +"%Y-%m-%d").log)"
-#echo -e "\e[93mCheck Dashboard \e[0m"
+echo -e "\e[93mCheck Dashboard \e[0m"
