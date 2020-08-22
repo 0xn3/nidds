@@ -58,5 +58,5 @@ Access the reporting interface (i.e. **Client**) by visiting the http://127.0.0.
 To **change** Admin **password**
 ```
 sudo su
-cd /tmp/ && pass-reset.sh && wgethttps://raw.githubusercontent.com/prasanthc41m/nidds/master/pass-reset.sh && bash pass-reset.sh
+cd /tmp/ && pass-reset.sh && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/pass-reset.sh && bash pass-reset.sh
 ```
