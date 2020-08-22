@@ -13,8 +13,8 @@ mkdir -p /etc/nidds
 #Add Remote Server:port IP
 #read -p 'IP: ' ip
 #echo "LOG_SERVER $ip:1019" >> /opt/nidds/nidds.conf
-sed -i -e '/#UDP_ADDRESS/s/#UDP_ADDRESS/UDP_ADDRESS/' /opt/nidds/nidds.conf
-sed -i -e '/#UDP_PORT/s/#UDP_PORT/UDP_PORT/' /opt/nidds/nidds.conf
+#sed -i -e '/#UDP_ADDRESS/s/#UDP_ADDRESS/UDP_ADDRESS/' /opt/nidds/nidds.conf
+#sed -i -e '/#UDP_PORT/s/#UDP_PORT/UDP_PORT/' /opt/nidds/nidds.conf
 #echo "UDP_ADDRESS 0.0.0.0 " >> /opt/nidds/nidds.conf
 #echo "UDP_PORT 1019 " >> /opt/nidds/nidds.conf
 cp /opt/nidds/nidds.conf /etc/nidds
