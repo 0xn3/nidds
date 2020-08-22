@@ -21,7 +21,7 @@ cp /opt/nidds/nidds.conf /etc/nidds
 # Adding cron job
 echo -e "\e[93mUpdating cron job to autostart sensor & periodic restart \e[0m"
 crontab <<EOF
-*/1 * * * * if [ -n "$(ps -ef | grep -v grep | grep 'sensor.py')" ]; then : ; else python /opt/nidds/server.py -c /etc/nidds/nidds.conf; fi
+*/1 * * * * if [ -n "$(ps -ef | grep -v grep | grep 'server.py')" ]; then : ; else python /opt/nidds/server.py -c /etc/nidds/nidds.conf; fi
 0 1 * * * cd /opt/nidds && git pull
 EOF
 #python /opt/nidds/server.py -c /etc/nidds/nidds.conf &
