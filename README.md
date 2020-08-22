@@ -11,7 +11,7 @@ The following set of commands should get your NIDDS **Sensor** up and running (o
 )
 ```
 sudo su
-cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_sensor.sh && bash install_sensor.sh
+cd /tmp/ && rm install_sensor.sh && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_sensor.sh && bash install_sensor.sh
 ```
 
 
@@ -21,7 +21,7 @@ To start the (optional) **Server** on same machine, open a new terminal and exec
 )
 ```
 sudo su
-cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_server.sh && bash install_server.sh
+cd /tmp/ && rm install_server.sh && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_server.sh && bash install_server.sh
 ```
 
 
