@@ -2,7 +2,7 @@
 # Install
 echo -e "\e[93mInstalling NIDDS Server \e[0m" ; sleep 5
 apt update
-apt install -y python-setuptools python-pcapy git schedtool
+apt install -y python-setuptools python-pcapy git schedtool sha256sum
 cd /tmp
 git clone --depth 1 https://github.com/prasanthc41m/nidds.git
 mv /tmp/nidds /opt
