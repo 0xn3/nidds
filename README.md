@@ -7,8 +7,7 @@ The following set of commands should get your NIDDS **Sensor** up and running (o
 
 - For **Debian/Ubuntu**
 
-![Sensor]( https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_sensor.sh 
-)
+![Sensor](https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/Sensor.png)
 ```
 sudo su
 cd /tmp/ && rm install_sensor.sh && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_sensor.sh && bash install_sensor.sh
