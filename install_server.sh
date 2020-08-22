@@ -26,7 +26,7 @@ crontab <<EOF
 EOF
 #python /opt/nidds/server.py -c /etc/nidds/nidds.conf &
 echo -e "\e[93mInstallation Finished \e[0m"
-#echo -e "\e[93mTesting Sensor \e[0m"
+#echo -e "\e[93mTesting Server \e[0m"
 #ping -c 1 136.161.101.53
 echo -e "\e[93m $(tail -n 2  /var/log/maltrail/$(date +"%Y-%m-%d").log)"
 echo -e "\e[93mBrowse http://0.0.0.0:1020 \e[0m"
