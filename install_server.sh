@@ -1,6 +1,6 @@
 #!/bin/sh
 # Install
-echo -e "\e[93mInstalling nidds Server \e[0m" ; sleep 5
+echo -e "\e[93mInstalling NIDDS Server \e[0m" ; sleep 5
 apt update
 apt install -y python-setuptools python-pcapy git schedtool
 cd /tmp
