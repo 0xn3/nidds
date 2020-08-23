@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 2ip.me
@@ -294,7 +294,7 @@ whatsmyip.ie
 
 2019.ip138.com
 
-# Reference: https://www.virustotal.com/gui/file/66f15d02e1f4757719f48e0df25b23be59e28e75dc60d14c3e72849d7dd8bbcb/detection
+# Reference: https://www.virustotal.com/gui/file/66f15d02e1f4757719f48e0df25b23be59e28e75dc60d14c3e72849d7dd8bbcb/trails
 
 ipstack.com
 
@@ -312,7 +312,7 @@ get.geojs.io
 getmyip.win
 ident.me
 
-# Reference: https://www.virustotal.com/gui/file/84de767f4e5bb60b19a734dd60590bebad76c5e7622ee05f3f745edfd7730ae3/detection
+# Reference: https://www.virustotal.com/gui/file/84de767f4e5bb60b19a734dd60590bebad76c5e7622ee05f3f745edfd7730ae3/trails
 
 apps.game.qq.com/comm-htdocs/ip/get_ip.php
 
@@ -320,7 +320,7 @@ apps.game.qq.com/comm-htdocs/ip/get_ip.php
 
 sfml-dev.org/ip-provider.php
 
-# Reference: https://www.virustotal.com/gui/file/e60b0b0e57ca395709aeae6016e39f4114c84272e32cf040f5d972372f212f08/detection
+# Reference: https://www.virustotal.com/gui/file/e60b0b0e57ca395709aeae6016e39f4114c84272e32cf040f5d972372f212f08/trails
 
 sypexgeo.net
 
@@ -333,10 +333,10 @@ geolocation-db.com
 
 ipcode.pw
 
-# Reference: https://www.virustotal.com/gui/file/db990dd20ae4390a2965b9de6839cda8a52fb0214fb5d90cbc2da9ccf0977dcd/detection
+# Reference: https://www.virustotal.com/gui/file/db990dd20ae4390a2965b9de6839cda8a52fb0214fb5d90cbc2da9ccf0977dcd/trails
 
 api.rest7.com/v1/my_ip.php
 
-# Reference: https://www.virustotal.com/gui/file/b9cf5db42a5cc90339cd90d7a39ff5caae4a54decd174ddf097e148428909394/detection
+# Reference: https://www.virustotal.com/gui/file/b9cf5db42a5cc90339cd90d7a39ff5caae4a54decd174ddf097e148428909394/trails
 
 v4.ipv6-test.com/api/myip.php

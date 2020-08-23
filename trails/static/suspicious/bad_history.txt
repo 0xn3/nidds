@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://github.com/deepfield/dnsflow-merit/blob/f484bc792c1b743057a9e6a443cf9fe26ae444fe/src/blacklists/domains1.txt
@@ -26475,7 +26475,7 @@ xxb706c07c.ws
 xxb83603e5.tk
 xxc07d8706.tk
 xxcc706c07.tk
-xxcf706c07.ws
+xpng706c07.ws
 xxd80fbae0.tk
 xxe0383603.ws
 xxe1b83603.tk

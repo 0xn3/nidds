@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://hackforums.net/printthread.php?tid=5655422
@@ -66,7 +66,7 @@ hellominer.com
 # minemytraffic.com
 # crypto-loot.com
 
-# Reference: https://www.virustotal.com/#/file/179c5390ba2023402283104fd85d6394033976bc2f21e45d32e7557cafaa7d41/detection
+# Reference: https://www.virustotal.com/#/file/179c5390ba2023402283104fd85d6394033976bc2f21e45d32e7557cafaa7d41/trails
 
 sparechange.io
 
@@ -207,8 +207,8 @@ xmr.usa-138.com
 
 # Reference: https://twitter.com/MalwareTechBlog/status/1190730471321112577
 # Reference: https://otx.alienvault.com/pulse/5dbdf437299aea7cd396cd26
-# Reference: https://www.virustotal.com/gui/file/8a87a1261603af4d976faa57e49ebdd8fd8317e9dd13bd36ff2599d1031f53ce/detection
-# Reference: https://www.virustotal.com/gui/file/037dbddeda76d7a1be68a2b3098feabfbf5400a53e2606f5a0e445deb2e42959/detection
+# Reference: https://www.virustotal.com/gui/file/8a87a1261603af4d976faa57e49ebdd8fd8317e9dd13bd36ff2599d1031f53ce/trails
+# Reference: https://www.virustotal.com/gui/file/037dbddeda76d7a1be68a2b3098feabfbf5400a53e2606f5a0e445deb2e42959/trails
 
 5.100.251.106:52057
 
@@ -217,7 +217,7 @@ xmr.usa-138.com
 myxmr.pw
 xmr.5b6b7b.ru
 
-# Reference: https://www.virustotal.com/gui/file/f99833ef4d4bcb6cf9abcaee6edd3d1ba5b5825af4fd3f609654d343b137a8af/detection
+# Reference: https://www.virustotal.com/gui/file/f99833ef4d4bcb6cf9abcaee6edd3d1ba5b5825af4fd3f609654d343b137a8af/trails
 
 91.121.140.167:3333
 
@@ -268,7 +268,7 @@ monero.riefly.id
 
 # Reference: https://blog.talosintelligence.com/2020/01/vivin-cryptomining-campaigns.html
 # Reference: https://otx.alienvault.com/pulse/5e29b7189d749995b2d4ea71
-# Reference: https://www.virustotal.com/gui/file/6bc118693d6e69081e5f39fdab20a613d7536d3199c029562c192c5dbc9d1d1c/detection
+# Reference: https://www.virustotal.com/gui/file/6bc118693d6e69081e5f39fdab20a613d7536d3199c029562c192c5dbc9d1d1c/trails
 
 37.59.43.136:4444
 37.59.54.205:4444
@@ -278,7 +278,7 @@ monero.riefly.id
 
 mining.bittubeapp.com
 
-# Reference: https://www.virustotal.com/gui/file/5eda21ea41febbdc5b69840894cb37cba8206f2865dc07e2cb85c29db5240d04/detection
+# Reference: https://www.virustotal.com/gui/file/5eda21ea41febbdc5b69840894cb37cba8206f2865dc07e2cb85c29db5240d04/trails
 # Reference: https://www.virustotal.com/gui/ip-address/163.172.204.213/relations
 # Reference: https://www.virustotal.com/gui/ip-address/163.172.204.219/relations
 
@@ -322,14 +322,14 @@ pool.somec.cc
 163.172.226.194
 163.172.226.218
 
-# Reference: https://www.virustotal.com/gui/file/fbcdd5c542bb5c66303e621829f0cd654be0bfb38ed0c50a335ef3c9dae0201f/detection
+# Reference: https://www.virustotal.com/gui/file/fbcdd5c542bb5c66303e621829f0cd654be0bfb38ed0c50a335ef3c9dae0201f/trails
 
 138.201.20.89:45700
 138.201.27.243:45700
 78.46.87.181:45700
 88.99.142.163:45700
 
-# Reference: https://www.virustotal.com/gui/file/c3affb76ff0fad78d77b0153b5c2a99d5bbd8d829ef13661c0af58d2988db344/detection
+# Reference: https://www.virustotal.com/gui/file/c3affb76ff0fad78d77b0153b5c2a99d5bbd8d829ef13661c0af58d2988db344/trails
 
 149.210.234.234:3333
 litecoinpool.org
@@ -379,7 +379,7 @@ minexmr.com
 178.128.108.158:443
 68.183.182.120:443
 
-# Reference: https://www.virustotal.com/gui/file/455224893e266c7f5781bdc2e0c1cbb1a4f3c71c8a63ba7c690cd3067949ed5c/detection
+# Reference: https://www.virustotal.com/gui/file/455224893e266c7f5781bdc2e0c1cbb1a4f3c71c8a63ba7c690cd3067949ed5c/trails
 
 178.63.48.196:5555
 
@@ -388,6 +388,6 @@ minexmr.com
 minerpool.pw
 /xmrig/
 
-# Reference: https://www.virustotal.com/gui/file/a38216166e363d752f37bdf0419d2e2694279beab8df66d40f56c679563e7a4f/detection
+# Reference: https://www.virustotal.com/gui/file/a38216166e363d752f37bdf0419d2e2694279beab8df66d40f56c679563e7a4f/trails
 
 pool.hashvault.pro

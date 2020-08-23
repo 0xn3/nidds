@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # User reported
@@ -430,7 +430,7 @@ website.or
 
 heliohost.org
 
-# Reference: https://github.com/stamparm/maltrail/pull/6726#issuecomment-585150689
+# Reference: https://github.com/prasanthc41m/nidds/pull/6726#issuecomment-585150689
 
 6te.net
 

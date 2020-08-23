@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://www.noip.com/sign-up
@@ -2258,62 +2258,62 @@ ddns.epac.to
 
 isgre.at
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/site90.net/relations
 
 site90.net
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comule.com/relations
 
 comule.com
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/net84.net/relations
 
 net84.net
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comoj.com/relations
 
 comoj.com
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/net63.net/relations
 
 net63.net
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comxa.com/relations
 
 comxa.com
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comyr.com/relations
 
 comyr.com
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/netii.net/relations
 
 netii.net
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comeze.com/relations
 
 comeze.com
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comuv.com/relations
 
 comuv.com
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comli.com/relations
 
 comli.com
 
-# Reference: https://blogs.cisco.com/security/dynamic-detection-of-malicious-ddns
+# Reference: https://blogs.cisco.com/security/dynamic-trails-of-malicious-ddns
 # Reference: https://www.virustotal.com/gui/domain/comuf.com/relations
 
 comuf.com

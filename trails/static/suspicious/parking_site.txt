@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://www.virustotal.com/en/ip-address/54.72.130.67/information/
@@ -4551,7 +4551,7 @@ bustbuy.com
 
 50.87.64.117
 
-# Reference: https://github.com/stamparm/maltrail/pull/332#issuecomment-419673426
+# Reference: https://github.com/prasanthc41m/nidds/pull/332#issuecomment-419673426
 # namecheap.com
 
 68.65.122.95

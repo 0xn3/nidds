@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://en.wikipedia.org/wiki/Browser_hijacking
@@ -1337,7 +1337,7 @@ jsgnr.eshopcomp.com
 cnfg.toolbarservices.com
 
 # Reference: https://forums.malwarebytes.com/topic/186439-removal-instructions-for-vkontaktedj/
-# Reference: https://www.virustotal.com/#/file/c93d70c03c538ece89b661b2c39063d26f27496582bd922d6dfb203f5f3336d2/detection
+# Reference: https://www.virustotal.com/#/file/c93d70c03c538ece89b661b2c39063d26f27496582bd922d6dfb203f5f3336d2/trails
 
 dj-reserve.com
 
@@ -1804,7 +1804,7 @@ lifopp-sacoho.com
 
 
 # Reference: https://www.reverse.it/sample/c314fcf73fbd90c06867864834c7f62e29d2a217bde9b4bdc9b004e6b55d4697?environmentId=100
-# Reference: https://www.virustotal.com/#/file/c314fcf73fbd90c06867864834c7f62e29d2a217bde9b4bdc9b004e6b55d4697/detection
+# Reference: https://www.virustotal.com/#/file/c314fcf73fbd90c06867864834c7f62e29d2a217bde9b4bdc9b004e6b55d4697/trails
 
 wintoflashsuggestor.net
 
@@ -1898,7 +1898,7 @@ getfreevideo.world
 dl.xetapp.us
 
 # Reference: https://twitter.com/Paladin3161/status/1151809951762964480
-# Reference: https://www.virustotal.com/gui/file/aacadf7b3bfc2ac8a9a342e5372c77218efa9c67602c3a15441094170a5f52d4/detection
+# Reference: https://www.virustotal.com/gui/file/aacadf7b3bfc2ac8a9a342e5372c77218efa9c67602c3a15441094170a5f52d4/trails
 
 dl.ludashi.com
 dlres-a.iyims.com
@@ -2074,7 +2074,7 @@ dpliveupdate.com
 installportal.com
 
 # Reference: https://www.virustotal.com/gui/domain/finalocean.info/relations
-# Reference: https://www.virustotal.com/gui/file/1a671f3dab3fc3a7dc7f5858b4d841e23295e69bed22027ed074d4875053caf0/detection
+# Reference: https://www.virustotal.com/gui/file/1a671f3dab3fc3a7dc7f5858b4d841e23295e69bed22027ed074d4875053caf0/trails
 
 finalocean.info
 
@@ -2105,7 +2105,7 @@ brobgser.com
 
 wisecleaner.net
 
-# Reference: https://blog.malwarebytes.com/detections/adware-searchenginehijack/
+# Reference: https://blog.malwarebytes.com/trailss/adware-searchenginehijack/
 
 searchprivacyplus.com
 elastisearch.com
@@ -2120,15 +2120,15 @@ rp.ytdcdn.com
 os.ytdcdn.com
 os2.ytdcdn.com
 
-# Reference: https://www.virustotal.com/gui/domain/pcfixertools.net/detection
+# Reference: https://www.virustotal.com/gui/domain/pcfixertools.net/trails
 
 pcfixertools.biz
 pcfixertools.info
 pcfixertools.net
 
 # Reference: https://www.virustotal.com/gui/domain/thegetbooks.tk/relations
-# Reference: https://www.virustotal.com/gui/file/02a3bd5c67c6c168df1226ba471f1a057e3ecdd408502aecb08902dbaeb1f516/detection
-# Reference: https://www.virustotal.com/gui/file/45ed1baee046475f88f037702ceb1d7cec1a099f39b9248bbe4bf23622683afe/detection
+# Reference: https://www.virustotal.com/gui/file/02a3bd5c67c6c168df1226ba471f1a057e3ecdd408502aecb08902dbaeb1f516/trails
+# Reference: https://www.virustotal.com/gui/file/45ed1baee046475f88f037702ceb1d7cec1a099f39b9248bbe4bf23622683afe/trails
 
 express-book.net
 thegetbooks.tk
@@ -2268,7 +2268,7 @@ search.tube-bar.com
 
 rp.downloadagentcdn.com
 
-# Reference: https://www.virustotal.com/gui/domain/youtube4kdowloader.club/detection
+# Reference: https://www.virustotal.com/gui/domain/youtube4kdowloader.club/trails
 
 youtube4kdowloader.club
 
@@ -2276,17 +2276,17 @@ youtube4kdowloader.club
 
 freekzvideo.cloud
 
-# Reference: https://www.virustotal.com/gui/file/7e5065352271d66bd2a28613971b45c0fb9f7bcfb499b1aebecc49167ec9d7a2/detection
-# Reference: https://www.virustotal.com/gui/file/2509244e823a1f6308438b44e9bb6fa808fec72a9a48d5f730dfbf6c3aca5d85/detection
+# Reference: https://www.virustotal.com/gui/file/7e5065352271d66bd2a28613971b45c0fb9f7bcfb499b1aebecc49167ec9d7a2/trails
+# Reference: https://www.virustotal.com/gui/file/2509244e823a1f6308438b44e9bb6fa808fec72a9a48d5f730dfbf6c3aca5d85/trails
 
 atbc0003.top
 mediadownloader25.tk
 
-# Reference: https://www.virustotal.com/gui/file/6248a41a5e4230433e2a0e33f26dbed558e9bc21b51302124ee931921da3e657/detection
+# Reference: https://www.virustotal.com/gui/file/6248a41a5e4230433e2a0e33f26dbed558e9bc21b51302124ee931921da3e657/trails
 
 hostas5.ml
 
-# Reference: https://www.virustotal.com/gui/file/c507fa7630f7a24b9f2b1dca969a15b253d73b81b520fedc6de0df2116f2fa0f/detection
+# Reference: https://www.virustotal.com/gui/file/c507fa7630f7a24b9f2b1dca969a15b253d73b81b520fedc6de0df2116f2fa0f/trails
 
 159.89.214.31:1081
 
@@ -2299,7 +2299,7 @@ memishooee.pw
 
 sys-optimize.com
 
-# Reference: https://www.virustotal.com/gui/file/fa06ba9b45a5babc68f6ffc5de448ec908a28fc2a59ea977b13c687c5265dcea/detection
+# Reference: https://www.virustotal.com/gui/file/fa06ba9b45a5babc68f6ffc5de448ec908a28fc2a59ea977b13c687c5265dcea/trails
 
 multinstaller.com
 
@@ -2307,11 +2307,11 @@ multinstaller.com
 
 ec2-35-166-136-23.us-west-2.compute.amazonaws.com
 
-# Reference: https://www.virustotal.com/gui/file/22527477a0a4edbea690de10ef82d201f379502661178c19f9d6ae7628c6552a/detection
-# Reference: https://www.virustotal.com/gui/file/10cca6904c98f6ce94e9a21c0490fc5e507985a0d363baab3a31856f02653dde/detection
-# Reference: https://www.virustotal.com/gui/file/1cee6c397376c0f8363085d86cbd82cbe635ace6ba4bfb2a732a8e2c657a2fe2/detection
-# Reference: https://www.virustotal.com/gui/file/04873ec6fa6d05edc4557ce7b14115dce3325d2d551812035fed8c1e574af802/detection
-# Reference: https://www.virustotal.com/gui/file/ad3edea038dcb17af1e16e997e58d589eceef3b0a0e8e25d2c3907e4abcb506f/detection
+# Reference: https://www.virustotal.com/gui/file/22527477a0a4edbea690de10ef82d201f379502661178c19f9d6ae7628c6552a/trails
+# Reference: https://www.virustotal.com/gui/file/10cca6904c98f6ce94e9a21c0490fc5e507985a0d363baab3a31856f02653dde/trails
+# Reference: https://www.virustotal.com/gui/file/1cee6c397376c0f8363085d86cbd82cbe635ace6ba4bfb2a732a8e2c657a2fe2/trails
+# Reference: https://www.virustotal.com/gui/file/04873ec6fa6d05edc4557ce7b14115dce3325d2d551812035fed8c1e574af802/trails
+# Reference: https://www.virustotal.com/gui/file/ad3edea038dcb17af1e16e997e58d589eceef3b0a0e8e25d2c3907e4abcb506f/trails
 
 adcash.cf
 ayurew.pw
@@ -2325,31 +2325,31 @@ o-browser.ru
 technologieberri.com
 trumpmoney.world
 
-# Reference: https://www.virustotal.com/gui/file/65a3cf860cd4202c15508db6d8b8bcb7352671fdd49d50b0504817bb78099331/detection
+# Reference: https://www.virustotal.com/gui/file/65a3cf860cd4202c15508db6d8b8bcb7352671fdd49d50b0504817bb78099331/trails
 
 adasf.pw
 
-# Reference: https://www.virustotal.com/gui/file/0231fea50ab5ea4e6d28f75b3d459b8995d1e960ec3acbef2525ffd1ef25d2bd/detection
+# Reference: https://www.virustotal.com/gui/file/0231fea50ab5ea4e6d28f75b3d459b8995d1e960ec3acbef2525ffd1ef25d2bd/trails
 
 astra2yedek.xyz
 
-# Reference: https://www.virustotal.com/gui/file/b4d7152c04dac5636ed49806ef24f407008e8c0b35beacb25b5a3030d3b5f2dc/detection
+# Reference: https://www.virustotal.com/gui/file/b4d7152c04dac5636ed49806ef24f407008e8c0b35beacb25b5a3030d3b5f2dc/trails
 
 68.10.46.234:63274
 install-apps.com
 /gcache.php?get=
 
-# Reference: https://www.virustotal.com/gui/file/e9a81285534c5a8903f43d2372ea805a2229fc02cda52f73acf7c9bbf1f647d4/detection
+# Reference: https://www.virustotal.com/gui/file/e9a81285534c5a8903f43d2372ea805a2229fc02cda52f73acf7c9bbf1f647d4/trails
 
 http://213.152.46.35
 gnutella-cache.no-ip.com
 
-# Reference: https://www.virustotal.com/gui/file/757475e379dcdcb988f99c49071f89d442e42185671bfd8099e58abce96aa118/detection
+# Reference: https://www.virustotal.com/gui/file/757475e379dcdcb988f99c49071f89d442e42185671bfd8099e58abce96aa118/trails
 
 techdudez.com
 vernweb.homeip.net
 
-# Reference: https://www.virustotal.com/gui/file/a7c2e176ffe6e436474710b251feb0cf3130abff45cd9db35610fb9564250ba1/detection
+# Reference: https://www.virustotal.com/gui/file/a7c2e176ffe6e436474710b251feb0cf3130abff45cd9db35610fb9564250ba1/trails
 
 bazooka1.servehttp.com
 
@@ -2361,18 +2361,18 @@ rainwater.dyndns.org
 
 gridcoin.ddns.net
 
-# Reference: https://www.virustotal.com/gui/file/c37610626f34ae52d04777a188012cf2212b0cebd6920af46b72808234e223bd/detection
+# Reference: https://www.virustotal.com/gui/file/c37610626f34ae52d04777a188012cf2212b0cebd6920af46b72808234e223bd/trails
 
 fb38099g.bget.ru
 
 # Reference: https://www.virustotal.com/gui/domain/lekkit.hopto.org/relations
-# Reference: https://www.virustotal.com/gui/file/345499b5161a6d57b633cad88d83e321b82776d84ceea8661901ae4f115dd0b5/detection
-# Reference: https://www.virustotal.com/gui/file/aa0e351ada009aef1453a2aa3a761d7a5a10165dfaa4bc71bd0a70a866ad790e/detection
+# Reference: https://www.virustotal.com/gui/file/345499b5161a6d57b633cad88d83e321b82776d84ceea8661901ae4f115dd0b5/trails
+# Reference: https://www.virustotal.com/gui/file/aa0e351ada009aef1453a2aa3a761d7a5a10165dfaa4bc71bd0a70a866ad790e/trails
 
 46.219.3.46:6121
 80.229.219.2:6121
 lekkit.hopto.org
 
-# Reference: https://www.virustotal.com/gui/file/d5416dd14fa8c3f7ce2d74b911ce58d1cbea20a134df0c70d2629c7eb17d2b83/detection
+# Reference: https://www.virustotal.com/gui/file/d5416dd14fa8c3f7ce2d74b911ce58d1cbea20a134df0c70d2629c7eb17d2b83/trails
 
 tlcgame.000webhostapp.com

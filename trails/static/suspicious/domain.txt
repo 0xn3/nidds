@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 .cc
@@ -4919,7 +4919,7 @@ blogoveg.org
 g1ee.com
 
 # Reference: https://pastebin.com/29uSdMAk
-# Reference: https://www.virustotal.com/gui/file/ff0fb3dbc9170b42ca07bcbcca2c90dbe7e28eed7a6f8861cc91fcef691726d7/detection
+# Reference: https://www.virustotal.com/gui/file/ff0fb3dbc9170b42ca07bcbcca2c90dbe7e28eed7a6f8861cc91fcef691726d7/trails
 
 climatechangeawareness.uk
 
@@ -4993,7 +4993,7 @@ monk249.date
 
 hospedagemdesites.ws
 
-# Reference: https://www.virustotal.com/gui/file/6a6826cbe38a06a2b381c208519c4891ccb95c49958c2173cd2eef3db62329eb/detection
+# Reference: https://www.virustotal.com/gui/file/6a6826cbe38a06a2b381c208519c4891ccb95c49958c2173cd2eef3db62329eb/trails
 
 spamcannibal.xyz
 
@@ -5029,7 +5029,7 @@ xsph.ru
 
 pphost.net
 
-# Reference: https://www.virustotal.com/gui/domain/wcomhost.com/detection
+# Reference: https://www.virustotal.com/gui/domain/wcomhost.com/trails
 
 wcomhost.com
 
@@ -5038,11 +5038,11 @@ wcomhost.com
 .cyou
 
 # Reference: https://www.virustotal.com/gui/domain/kingx.info/relations
-# Reference: https://www.virustotal.com/gui/file/3f2c17bfa5c453a9fe4a8ab56c9d9ce24020e7489204f506d92668986b965826/detection
+# Reference: https://www.virustotal.com/gui/file/3f2c17bfa5c453a9fe4a8ab56c9d9ce24020e7489204f506d92668986b965826/trails
 
 kingx.info
 
 # Reference: https://www.virustotal.com/gui/domain/kingspy.ml/relations
-# Reference: https://www.virustotal.com/gui/file/01f513ae8de5bb41180a25f095a1bb432f122a808950cd317bbc3b9c6b6cb48e/detection
+# Reference: https://www.virustotal.com/gui/file/01f513ae8de5bb41180a25f095a1bb432f122a808950cd317bbc3b9c6b6cb48e/trails
 
 kingspy.ml

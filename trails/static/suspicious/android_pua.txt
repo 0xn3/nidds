@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2020 NIDDS developers (https://github.com/prasanthc41m/nidds/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/ (# AdDisplay)
@@ -18,30 +18,30 @@ okyesmobi.com
 
 data.djmixer2018.com
 
-# Reference: https://www.virustotal.com/gui/file/9442af04b50af35a768984fc66c9302d4f840cc3183e0fd55c1e2dda4fab28ce/detection
+# Reference: https://www.virustotal.com/gui/file/9442af04b50af35a768984fc66c9302d4f840cc3183e0fd55c1e2dda4fab28ce/trails
 
 216.144.236.34:80
 
-# Reference: https://www.virustotal.com/gui/file/f02de53011911ce236fd4aa12356da4a47e0632cedd48bd150d2b99ed79890c8/detection
+# Reference: https://www.virustotal.com/gui/file/f02de53011911ce236fd4aa12356da4a47e0632cedd48bd150d2b99ed79890c8/trails
 # Reference: https://www.virustotal.com/gui/domain/freevideo.publicvm.com/relations
 
 freevideo.publicvm.com
 
-# Reference: https://www.virustotal.com/gui/file/af197de4ef661e2c0f416b64d2681afe77d9236c9d0cab447d89daadeb9e281c/detection
+# Reference: https://www.virustotal.com/gui/file/af197de4ef661e2c0f416b64d2681afe77d9236c9d0cab447d89daadeb9e281c/trails
 
 admob.linkpc.net
 
 # Reference: https://twitter.com/malwrhunterteam/status/1243800098053767168
-# Reference: https://www.virustotal.com/gui/file/0b336a74a85635956783e20b2546df1629b82777eacac25c42de6232aff46623/detection
+# Reference: https://www.virustotal.com/gui/file/0b336a74a85635956783e20b2546df1629b82777eacac25c42de6232aff46623/trails
 
 easyphonetrack.com
 /spy_phone/test_connection.php
 
-# Reference: https://www.virustotal.com/gui/file/e1288cb54727e673ffbd90ef4fcda2079d9f8a3d7b22b54b4e4726864462987c/detection
-# Reference: https://www.virustotal.com/gui/file/47ea88989bc1b1e90ea66d535c8c412994dd6eddaee82a4b69d3cd0922d7b219/detection
-# Reference: https://www.virustotal.com/gui/file/4bd5d41f9008f2e83a4b20f1104b726d43396eda52466ac3a066f90e432fa509/detection
+# Reference: https://www.virustotal.com/gui/file/e1288cb54727e673ffbd90ef4fcda2079d9f8a3d7b22b54b4e4726864462987c/trails
+# Reference: https://www.virustotal.com/gui/file/47ea88989bc1b1e90ea66d535c8c412994dd6eddaee82a4b69d3cd0922d7b219/trails
+# Reference: https://www.virustotal.com/gui/file/4bd5d41f9008f2e83a4b20f1104b726d43396eda52466ac3a066f90e432fa509/trails
 # Reference: https://www.virustotal.com/gui/ip-address/103.230.236.33/relations
-# Reference: https://www.virustotal.com/gui/file/adee9a56c951603db3f529c60c9b3f33bb3ebb36de0e14357b68bbfc1cb73dca/detection
+# Reference: https://www.virustotal.com/gui/file/adee9a56c951603db3f529c60c9b3f33bb3ebb36de0e14357b68bbfc1cb73dca/trails
 
 103.230.236.33:7002
 103.230.236.33:7003
@@ -72,7 +72,7 @@ easyphonetrack.com
 okyesmobi.com
 
 # Reference: https://twitter.com/ReBensk/status/1253577450732175361
-# Reference: https://www.virustotal.com/gui/file/5a713ab48f267ee3d0aff6e9391b8fad90b46d35a1ffe805714084f1db819fa9/detection
+# Reference: https://www.virustotal.com/gui/file/5a713ab48f267ee3d0aff6e9391b8fad90b46d35a1ffe805714084f1db819fa9/trails
 
 corona389.com
 covid389.com
@@ -111,7 +111,7 @@ viptrack.pro
 
 cocospy.com
 
-# Reference: https://www.virustotal.com/gui/file/075b63d6402f73369885719b88eea0ee09782f5c6c973a7687498bfd797c5b59/detection
+# Reference: https://www.virustotal.com/gui/file/075b63d6402f73369885719b88eea0ee09782f5c6c973a7687498bfd797c5b59/trails
 
 appsgeyser.com
 
@@ -138,7 +138,7 @@ monitor-android.ru
 co1linesu.ru
 
 # Reference: https://twitter.com/malwrhunterteam/status/1285976285777473537
-# Reference: https://www.virustotal.com/gui/file/d1be492e47d62d6254871179c1d93752dbbcdc7b95470ace2870876068d9ea0e/detection
+# Reference: https://www.virustotal.com/gui/file/d1be492e47d62d6254871179c1d93752dbbcdc7b95470ace2870876068d9ea0e/trails
 
 spy-datacenter.com
 
