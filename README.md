@@ -1,7 +1,7 @@
 
 # Network Intrution Detection and Deduce System (NIDDS)
 
-![Dashboard]()
+![Logo](https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/logo.gif)
 
 ## Quick start
 
