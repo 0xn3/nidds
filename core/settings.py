@@ -21,7 +21,7 @@ from core.trailsdict import TrailsDict
 from thirdparty.six.moves import urllib as _urllib
 
 NAME = "NIDDS"
-VERSION = "0.23.8"
+VERSION = "0.5.3"
 PLATFORM = os.name
 IS_WIN = PLATFORM == "nt"
 IS_SENSOR = sys.argv[0].startswith("sensor")
@@ -71,7 +71,7 @@ CONDENSE_ON_INFO_KEYWORDS = ("attacker", "reputation", "scanner", "user agent", 
 CONDENSED_EVENTS_FLUSH_PERIOD = 10
 LOW_PRIORITY_INFO_KEYWORDS = ("reputation", "attacker", "spammer", "abuser", "malicious", "dnspod", "nicru", "crawler", "compromised", "bad history")
 HIGH_PRIORITY_INFO_KEYWORDS = ("mass scanner", "ipinfo")
-HIGH_PRIORITY_REFERENCES = ("bambenekconsulting.com", "github.com/prasanthc41m/blackbook", "(static)", "(custom)")
+HIGH_PRIORITY_REFERENCES = ("ehackify.com/blog", "github.com/prasanthc41m/nidds", "(static)", "(custom)")
 CONSONANTS = "bcdfghjklmnpqrstvwxyz"
 BAD_TRAIL_PREFIXES = ("127.", "192.168.", "localhost")
 LOCALHOST_IP = { 4: "127.0.0.1", 6: "::1" }
