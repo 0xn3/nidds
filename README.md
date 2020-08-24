@@ -66,6 +66,6 @@ cd /tmp/ && pass-reset.sh && wget https://raw.githubusercontent.com/prasanthc41m
 Point the DNS for your domain to server IP.
 
 ```
-wget https://raw.githubusercontent.com/prasanthc41m/nginxrproxy/master/nginx-reverseproxy.sh && bash install_server.sh
+cd /tmp && wget https://raw.githubusercontent.com/prasanthc41m/nginxrproxy/master/nginx-reverseproxy.sh && bash install_server.sh
 ```
 Insert domain name and port number of the server to access using https://example.com instead of http://127.0.0.1:1020
