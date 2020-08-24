@@ -52,7 +52,7 @@ pkill -f server.py
 ```
 Access the reporting interface (i.e. **Client**) by visiting the http://127.0.0.1:1020 (default credentials: `admin:ehackify`) from your web browser:
 
-![Reporting interface]()
+![Dashboard]()
 
 To **change** Admin **password**
 
