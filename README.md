@@ -1,7 +1,7 @@
 
-# NETWORK INTRUTION DETECTION AND DEDUCE SYSTEM
+# Network Intrution Detection and Deduce System (NIDDS)
 
-![NIDDS]()
+![Dashboard]()
 
 ## Quick start
 
