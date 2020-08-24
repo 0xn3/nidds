@@ -18,8 +18,7 @@ cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/ins
 
 To start the **Server** on machine, use below commands.
 
-![Server](  https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_server.sh 
-)
+![Server]( https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/Server.png )
 ```
 sudo su
 cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_server.sh && bash install_server.sh
