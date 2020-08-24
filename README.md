@@ -50,7 +50,7 @@ To stop **Sensor** and **Server** instances (if running in background) execute t
 sudo pkill -f sensor.py
 pkill -f server.py
 ```
-Access the reporting interface (i.e. **Client**) by visiting the http://127.0.0.1:1020 (default credentials: `admin:ehackify`) from your web browser:
+Access the Dashboard by visiting the http://127.0.0.1:1020 (default credentials: `admin:ehackify`) from your web browser:
 
 ![Dashboard]()
 
