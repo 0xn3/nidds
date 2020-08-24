@@ -1,11 +1,13 @@
-![NIDDS]()
+
 # NETWORK INTRUTION DETECTION AND DEDUCE SYSTEM
+
+![NIDDS]()
 
 ## Quick start
 
-Use below commands to get your NIDDS **Sensor** up and running (out of the box with default settings and monitoring interface "any").
-
 **Debian/Ubuntu**
+
+Use below commands to get your NIDDS **Sensor** up and running with default settings and monitoring interface configured to "any".
 
 ![Sensor](https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/Sensor.png)
 ```
