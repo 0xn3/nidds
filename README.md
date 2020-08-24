@@ -5,7 +5,7 @@
 
 The following set of commands should get your NIDDS **Sensor** up and running (out of the box with default settings and monitoring interface "any"):
 
-- For **Debian/Ubuntu**
+**Debian/Ubuntu**
 
 ![Sensor](https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/Sensor.png)
 ```
