@@ -1,9 +1,9 @@
 ![NIDDS]()
-
+# NETWORK INTRUTION DETECTION AND DEDUCE SYSTEM
 
 ## Quick start
 
-The following set of commands should get your NIDDS **Sensor** up and running (out of the box with default settings and monitoring interface "any"):
+Use below commands to get your NIDDS **Sensor** up and running (out of the box with default settings and monitoring interface "any").
 
 **Debian/Ubuntu**
 
@@ -14,7 +14,7 @@ cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/ins
 ```
 
 
-To start the (optional) **Server** on same machine, open a new terminal and execute the following:
+To start the **Server** on machine, use below commands.
 
 ![Server](  https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_server.sh 
 )
@@ -25,7 +25,7 @@ cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/ins
 
 
 
-To test that everything is up and running execute the following:
+To test that everything is up and running execute the following
 
 ```
 ping -c 1 136.161.101.53
