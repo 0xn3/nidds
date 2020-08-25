@@ -14,7 +14,8 @@ Use below commands to get your NIDDS **Sensor** up and running with default sett
 sudo su
 cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/install_sensor.sh && bash install_sensor.sh
 ```
-**Sensor on Raspberry Pi with WiFi**
+**Raspberry Pi with WiFi**
+
 You can run this sensor on a raspberry pi device by setup it as a wifi accesspoint using below command.
 
 ```
