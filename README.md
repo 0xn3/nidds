@@ -5,7 +5,7 @@
 
 ## Quick start
 
-**Debian/Ubuntu**
+**Sensor on Debian/Ubuntu**
 
 Use below commands to get your NIDDS **Sensor** up and running with default settings and monitoring interface configured to "any".
 
@@ -23,7 +23,7 @@ sudo su
 cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/rpi-sensor.sh
 
 ```
-**Server** 
+**Server on Debian/Ubuntu** 
 
 To start the server on machine, use below commands.
 
