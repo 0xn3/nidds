@@ -23,7 +23,9 @@ sudo su
 cd /tmp/ && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/rpi-sensor.sh
 
 ```
-To start the **Server** on machine, use below commands.
+**Server** 
+
+To start the server on machine, use below commands.
 
 ![Server]( https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/Server.png )
 ```
