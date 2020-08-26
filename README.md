@@ -3,7 +3,7 @@
 
 ![Logo](https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/logo.gif)
 
-![Architecture] (https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/NIDDS.png)
+![Architecture](https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/NIDDS.png)
 
 ## Quick start
 
