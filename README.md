@@ -80,4 +80,4 @@ Point the DNS for your domain to server IP.
 sudo su
 cd /tmp && wget https://raw.githubusercontent.com/prasanthc41m/nidds/master/nidds-reverseproxy.sh && bash install_server.sh
 ```
-Insert domain name and port number of the server to access using https://example.com instead of http://127.0.0.1:1020
+Insert domain name and port number of the server to access using https://example.com instead of http://127.0.0.1:1020 
