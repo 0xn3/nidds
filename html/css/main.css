@@ -11,16 +11,16 @@ td, th {
 table.dataTable tr { background-color: #fff; border-color: #a8a8a8 }
 table.dataTable td { white-space: nowrap; border-color: #a8a8a8 }
 table.dataTable thead { color: #fff; border-color: #a8a8a8; text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.50), -1px 1px 0 rgba(0, 0, 0, 0.50), 1px 1px 0 rgba(0, 0, 0, 0.50), 1px -1px 0 rgba(0, 0, 0, 0.50); }
-table.dataTable thead .sorting { border-color: #a8a8a8; background: url("../images/thirdparty/sort_both.png") no-repeat scroll right center #333 }
-table.dataTable thead .sorting_asc { border-color: #a8a8a8; background: url("../images/thirdparty/sort_asc.png") no-repeat scroll right center #777 }
-table.dataTable thead .sorting_desc { border-color: #a8a8a8; background: url("../images/thirdparty/sort_desc.png") no-repeat scroll right center #777 }
+table.dataTable thead .sorting { border-color: #a8a8a8; background: url("../images/thirdparty/sort_both.png") no-repeat scroll right center #008800 }
+table.dataTable thead .sorting_asc { border-color: #a8a8a8; background: url("../images/thirdparty/sort_asc.png") no-repeat scroll right center #005500 }
+table.dataTable thead .sorting_desc { border-color: #a8a8a8; background: url("../images/thirdparty/sort_desc.png") no-repeat scroll right center #005500 }
 table.dataTable tr:nth-child(2n+1)  { background-color: #f8f8f8; border-color: #a8a8a8 }
 table.dataTable thead > tr > th { padding-left: 10px }
 table.dataTable { border-color: #a8a8a8 }
 table.dataTable .highlighted { background-color: #abb9d3 !important }
 .details_total { font-size: 120%; font-weight: bold }
 .label-type, .tag {
-    background-color: #777777;
+    background-color: #005500777;
     font-weight: bold;
     text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.25), -1px 1px 0 rgba(0, 0, 0, 0.25), 1px 1px 0 rgba(0, 0, 0, 0.25), 1px -1px 0 rgba(0, 0, 0, 0.25);
     color: #ffffff;
@@ -420,7 +420,7 @@ rect.highlight {
     line-height: 1.1em;
 }
 .pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
-    background-color: #777;
+    background-color: #005500;
     border-color: #a8a8a8;
     color: #fff;
     cursor: default;
@@ -437,7 +437,7 @@ rect.highlight {
 .time-day, .duplicates, .ipcat {
     background-color: #eee;
     border-radius: 20px;
-    color: #777;
+    color: #005500;
     font-size: 80%;
     padding: 2px 2px;
     margin-bottom: 1px;
