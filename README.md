@@ -63,7 +63,7 @@ pkill -f server.py
 ```
 Access the Dashboard by visiting the http://127.0.0.1:1020 (default credentials: `admin:ehackify`) from your web browser:
 
-![Dashboard]()
+![Dashboard](https://raw.githubusercontent.com/prasanthc41m/nidds/master/images/Dashboard.png)
 
 To **change** Admin **password**
 
